@@ -30,7 +30,7 @@ Aplicación SPA construida con **React 19 + Vite 7 + Tailwind v4** que consume l
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/parcial-2.git
+git clone https://github.com/Alexmavl/parcial-2.git
 cd parcial-2
 
 # 2. Instala dependencias
@@ -58,6 +58,7 @@ Publish directory: dist
 Deploy automático en cada push.
 
 URL pública del proyecto:
+https://dreamy-kringle-d5f6c5.netlify.app/
 
 Notas
 
