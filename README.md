@@ -58,7 +58,7 @@ Publish directory: dist
 Deploy automático en cada push.
 
 URL pública del proyecto:
-https://dreamy-kringle-d5f6c5.netlify.app/
+https://fluffy-kitsune-c3baa1.netlify.app/
 
 Notas
 
